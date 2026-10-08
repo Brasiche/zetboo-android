@@ -1,0 +1,9 @@
+<p>Zetboo is a free, multilingual live chat platform.</p>
+<ul>
+<li><b>Public rooms</b> sorted by language, plus your own rooms, public or members-only.</li>
+<li><b>Private messages</b> with your friends: sent and read receipts, replies and reactions.</li>
+<li><b>Audio and video calls</b> between friends.</li>
+<li><b>Photos and voice messages</b>, scanned by an antivirus before they are shared.</li>
+<li>Interface in <b>14 languages</b>, light and dark mode.</li>
+</ul>
+<p>The app opens the zetboo.com service full screen (Trusted Web Activity). A free account (adults only) and an Internet connection are required.</p>

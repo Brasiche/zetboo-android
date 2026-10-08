@@ -1,0 +1,9 @@
+<p>Zetboo est une plateforme de chat en direct gratuite et multilingue.</p>
+<ul>
+<li><b>Salons publics</b> classés par langue, et vos propres salons, publics ou réservés à certains membres.</li>
+<li><b>Messages privés</b> avec vos amis : « envoyé », « lu », réponses et réactions.</li>
+<li><b>Appels audio et vidéo</b> entre amis.</li>
+<li><b>Photos et messages vocaux</b>, examinés par un antivirus avant d'être partagés.</li>
+<li>Interface en <b>14 langues</b>, mode clair et sombre.</li>
+</ul>
+<p>L'application ouvre le service zetboo.com en plein écran (Trusted Web Activity). Il faut un compte gratuit, réservé aux personnes majeures, et une connexion Internet.</p>
