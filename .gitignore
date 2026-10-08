@@ -1,0 +1,11 @@
+# Fichiers construits
+*.apk
+*.aab
+*.idsig
+build/
+app/build/
+.gradle/
+local.properties
+# Clés de signature : jamais dans le dépôt
+*.keystore
+*.jks
